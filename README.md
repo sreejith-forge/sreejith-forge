@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sreejith 👋
 
-<!--
-**sreejith-forge/sreejith-forge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with 8 years of experience, forging software that solves real problems.
 
-Here are some ideas to get you started:
+- 🔭 Currently building **NexusAI**, a unified platform to run, monitor, and measure internal tools from one dashboard
+- 🌱 Currently learning RAG, AI agents, and LLM tooling
+- 💬 Ask me about Ruby on Rails, Python, testing, and Spring Boot
+- ⚡ Fun fact: I'm also interested in content creation, so every project gets a good demo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech I work with
+- **Core:** Ruby · Ruby on Rails · Python
+- **Testing:** Pytest · Cucumber
+- **Also worked with:** Java · Spring Boot
+- **AI-assisted development:** Claude Code
+
+## 📫 Connect
+- LinkedIn: [www.linkedin.com/in/iamsree](www.linkedin.com/in/iamsree)
+- Email: sreejithprm.24@gmail.com
